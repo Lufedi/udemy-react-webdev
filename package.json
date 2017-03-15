@@ -1,0 +1,22 @@
+{
+  "name": "udemy-react-webdev",
+  "version": "1.0.0",
+  "description": "course react webdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lufedi/udemy-react-webdev.git"
+  },
+  "author": "Luis Felipe Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lufedi/udemy-react-webdev/issues"
+  },
+  "homepage": "https://github.com/Lufedi/udemy-react-webdev",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
